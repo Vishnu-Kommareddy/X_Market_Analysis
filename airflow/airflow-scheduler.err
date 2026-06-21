@@ -1,0 +1,9 @@
+[2025-10-30 21:07:44 -0700] [1061] [INFO] Starting gunicorn 22.0.0
+[2025-10-30 21:07:44 -0700] [1061] [INFO] Listening at: http://[::]:8793 (1061)
+[2025-10-30 21:07:44 -0700] [1061] [INFO] Using worker: sync
+[2025-10-30 21:07:45 -0700] [1062] [INFO] Booting worker with pid: 1062
+[2025-10-30 21:07:45 -0700] [1064] [INFO] Booting worker with pid: 1064
+[2025-10-30 21:14:09 -0700] [1061] [INFO] Handling signal: term
+[2025-10-30 21:14:09 -0700] [1062] [INFO] Worker exiting (pid: 1062)
+[2025-10-30 21:14:09 -0700] [1064] [INFO] Worker exiting (pid: 1064)
+[2025-10-30 21:14:09 -0700] [1061] [INFO] Shutting down: Master

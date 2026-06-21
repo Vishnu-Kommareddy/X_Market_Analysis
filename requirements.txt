@@ -1,0 +1,15 @@
+tweepy
+pandas
+sqlalchemy
+python-dotenv
+psycopg2-binary
+streamlit
+transformers
+psycopg2-binary
+pandas
+sqlalchemy
+networkx
+pyvis
+python-dotenv
+langchain
+airflow

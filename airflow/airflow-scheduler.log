@@ -1,0 +1,16 @@
+2025-10-30 21:07:44,897 INFO - Task context logging is enabled
+2025-10-30 21:07:44,900 INFO - Loaded executor: SequentialExecutor
+2025-10-30 21:07:45,001 INFO - Starting the scheduler
+2025-10-30 21:07:45,002 INFO - Processing each file at most -1 times
+2025-10-30 21:07:45,011 INFO - Launched DagFileProcessorManager with pid: 1063
+2025-10-30 21:07:45,014 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-10-30 21:07:45,019 INFO - Configured default timezone UTC
+2025-10-30 21:12:45,549 INFO - Adopting or resetting orphaned tasks for active dag runs
+2025-10-30 21:14:08,923 INFO - Exiting gracefully upon receiving signal 15
+2025-10-30 21:14:09,308 INFO - Sending Signals.SIGTERM to group 1063. PIDs of all processes in the group: []
+2025-10-30 21:14:09,311 INFO - Sending the signal Signals.SIGTERM to group 1063
+2025-10-30 21:14:09,312 INFO - Sending the signal Signals.SIGTERM to process 1063 as process group is missing.
+2025-10-30 21:14:09,315 INFO - Sending Signals.SIGTERM to group 1063. PIDs of all processes in the group: []
+2025-10-30 21:14:09,316 INFO - Sending the signal Signals.SIGTERM to group 1063
+2025-10-30 21:14:09,318 INFO - Sending the signal Signals.SIGTERM to process 1063 as process group is missing.
+2025-10-30 21:14:09,320 INFO - Exited execute loop

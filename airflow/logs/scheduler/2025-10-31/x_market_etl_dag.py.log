@@ -1,0 +1,256 @@
+[2025-10-30T21:34:30.535-0700] {processor.py:161} INFO - Started process (PID=2524) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:34:30.537-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:34:30.541-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:30.540-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:34:30.608-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:34:30.852-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:30.850-0700] {override.py:1858} INFO - Created Permission View: can delete on DAG:x_market_etl_dag
+[2025-10-30T21:34:30.919-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:30.918-0700] {override.py:1858} INFO - Created Permission View: can edit on DAG:x_market_etl_dag
+[2025-10-30T21:34:30.985-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:30.984-0700] {override.py:1858} INFO - Created Permission View: can read on DAG:x_market_etl_dag
+[2025-10-30T21:34:30.986-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:30.986-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:34:31.017-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:31.017-0700] {dag.py:3111} INFO - Creating ORM DAG for x_market_etl_dag
+[2025-10-30T21:34:31.018-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:34:31.018-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:34:31.150-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.627 seconds
+[2025-10-30T21:35:53.325-0700] {processor.py:161} INFO - Started process (PID=2610) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:35:53.327-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:35:53.330-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:35:53.329-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:35:53.369-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:35:53.421-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:35:53.421-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:35:53.442-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:35:53.441-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:35:53.548-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.229 seconds
+[2025-10-30T21:36:50.936-0700] {processor.py:161} INFO - Started process (PID=2655) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:36:50.938-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:36:50.941-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:36:50.940-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:36:50.986-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:36:51.030-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:36:51.030-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:36:51.049-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:36:51.049-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:36:51.163-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.236 seconds
+[2025-10-30T21:37:40.652-0700] {processor.py:161} INFO - Started process (PID=2695) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:37:40.655-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:37:40.660-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:37:40.659-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:37:40.731-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:37:40.809-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:37:40.809-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:37:40.833-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:37:40.833-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:37:40.987-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.351 seconds
+[2025-10-30T21:38:26.954-0700] {processor.py:161} INFO - Started process (PID=2736) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:38:26.958-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:38:26.963-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:38:26.962-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:38:27.024-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:38:27.087-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:38:27.087-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:38:27.121-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:38:27.121-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:38:27.263-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.325 seconds
+[2025-10-30T21:39:15.684-0700] {processor.py:161} INFO - Started process (PID=2799) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:15.686-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:39:15.688-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:15.688-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:15.719-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:15.771-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:15.770-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:39:15.791-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:15.791-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:39:15.904-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.232 seconds
+[2025-10-30T21:39:59.592-0700] {processor.py:161} INFO - Started process (PID=2838) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:59.594-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:39:59.597-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:59.597-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:59.647-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:39:59.700-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:59.699-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:39:59.725-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:39:59.724-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:39:59.872-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.287 seconds
+[2025-10-30T21:40:44.499-0700] {processor.py:161} INFO - Started process (PID=2877) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:40:44.501-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:40:44.506-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:40:44.505-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:40:44.562-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:40:44.624-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:40:44.624-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:40:44.650-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:40:44.649-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:40:44.867-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.383 seconds
+[2025-10-30T21:41:28.594-0700] {processor.py:161} INFO - Started process (PID=2916) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:41:28.596-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:41:28.599-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:41:28.598-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:41:28.639-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:41:28.695-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:41:28.695-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:41:28.715-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:41:28.715-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:41:28.834-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.247 seconds
+[2025-10-30T21:42:14.213-0700] {processor.py:161} INFO - Started process (PID=2955) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:42:14.215-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:42:14.218-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:42:14.217-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:42:14.252-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:42:14.306-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:42:14.305-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:42:14.338-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:42:14.338-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:42:14.472-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.265 seconds
+[2025-10-30T21:43:00.294-0700] {processor.py:161} INFO - Started process (PID=2995) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:00.295-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:43:00.298-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:00.297-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:00.334-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:00.372-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:00.372-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:43:00.394-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:00.393-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:43:00.531-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.244 seconds
+[2025-10-30T21:43:43.895-0700] {processor.py:161} INFO - Started process (PID=3034) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:43.897-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:43:43.900-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:43.900-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:43.931-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:43:43.983-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:43.982-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:43:44.017-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:43:44.016-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:43:44.216-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.330 seconds
+[2025-10-30T21:44:26.949-0700] {processor.py:161} INFO - Started process (PID=3072) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:44:26.952-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:44:26.959-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:44:26.957-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:44:27.020-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:44:27.078-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:44:27.078-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:44:27.119-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:44:27.119-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:44:27.283-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.353 seconds
+[2025-10-30T21:45:20.143-0700] {processor.py:161} INFO - Started process (PID=3137) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:45:20.146-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:45:20.149-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:45:20.149-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:45:20.193-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:45:20.237-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:45:20.236-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:45:20.263-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:45:20.263-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:45:20.423-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.295 seconds
+[2025-10-30T21:46:15.098-0700] {processor.py:161} INFO - Started process (PID=3182) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:15.101-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:46:15.103-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:15.103-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:15.143-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:15.184-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:15.184-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:46:15.211-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:15.210-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:46:15.320-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.231 seconds
+[2025-10-30T21:46:59.246-0700] {processor.py:161} INFO - Started process (PID=3221) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:59.247-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:46:59.253-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:59.252-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:59.301-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:46:59.358-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:59.357-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:46:59.393-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:46:59.393-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:46:59.503-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.266 seconds
+[2025-10-30T21:47:41.500-0700] {processor.py:161} INFO - Started process (PID=3380) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:47:41.501-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:47:41.504-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:47:41.503-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:47:41.533-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:47:41.576-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:47:41.575-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:47:41.599-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:47:41.599-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:47:41.710-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.218 seconds
+[2025-10-30T21:48:32.560-0700] {processor.py:161} INFO - Started process (PID=3457) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:48:32.563-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:48:32.565-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:48:32.565-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:48:32.609-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:48:32.668-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:48:32.668-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:48:32.690-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:48:32.690-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:48:32.828-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.281 seconds
+[2025-10-30T21:50:49.039-0700] {processor.py:161} INFO - Started process (PID=3652) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:50:49.042-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:50:49.044-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:50:49.044-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:50:49.077-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:50:49.112-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:50:49.112-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:50:49.131-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:50:49.130-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:50:49.232-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.202 seconds
+[2025-10-30T21:51:31.354-0700] {processor.py:161} INFO - Started process (PID=3690) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:51:31.357-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:51:31.359-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:51:31.359-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:51:31.419-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:51:31.467-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:51:31.467-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:51:31.488-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:51:31.487-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:51:31.620-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.274 seconds
+[2025-10-30T21:52:14.715-0700] {processor.py:161} INFO - Started process (PID=3729) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:14.717-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:52:14.721-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:14.720-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:14.781-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:14.841-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:14.841-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:52:14.862-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:14.862-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:52:14.983-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.279 seconds
+[2025-10-30T21:52:59.063-0700] {processor.py:161} INFO - Started process (PID=3768) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:59.065-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:52:59.069-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:59.068-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:59.105-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:52:59.147-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:59.147-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:52:59.167-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:52:59.167-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:52:59.273-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.218 seconds
+[2025-10-30T21:55:12.657-0700] {processor.py:161} INFO - Started process (PID=3984) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:55:12.659-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:55:12.662-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:55:12.661-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:55:12.694-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:55:12.734-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:55:12.733-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:55:12.757-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:55:12.757-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:55:12.860-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.211 seconds
+[2025-10-30T21:56:18.935-0700] {processor.py:161} INFO - Started process (PID=4040) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:56:18.938-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:56:18.941-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:56:18.941-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:56:18.985-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:56:19.035-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:56:19.034-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:56:19.057-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:56:19.057-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:56:19.215-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.287 seconds
+[2025-10-30T21:57:02.565-0700] {processor.py:161} INFO - Started process (PID=4078) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:02.567-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:57:02.570-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:02.570-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:02.615-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:02.660-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:02.660-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:57:02.683-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:02.683-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:57:02.839-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.281 seconds
+[2025-10-30T21:57:46.905-0700] {processor.py:161} INFO - Started process (PID=4117) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:46.907-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:57:46.910-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:46.909-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:46.952-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:57:46.993-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:46.993-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:57:47.014-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:57:47.014-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:57:47.115-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.221 seconds
+[2025-10-30T21:58:27.723-0700] {processor.py:161} INFO - Started process (PID=4155) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:58:27.725-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:58:27.728-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:58:27.727-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:58:27.784-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:58:27.817-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:58:27.817-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:58:27.835-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:58:27.835-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:58:27.934-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.219 seconds
+[2025-10-30T21:59:08.356-0700] {processor.py:161} INFO - Started process (PID=4193) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:08.359-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:59:08.362-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:08.361-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:08.399-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:08.444-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:08.443-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:59:08.467-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:08.467-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:59:08.577-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.230 seconds
+[2025-10-30T21:59:48.797-0700] {processor.py:161} INFO - Started process (PID=4230) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:48.799-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T21:59:48.802-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:48.802-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:48.854-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T21:59:48.894-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:48.893-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T21:59:48.916-0700] {logging_mixin.py:188} INFO - [2025-10-30T21:59:48.915-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T21:59:49.042-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.254 seconds
+[2025-10-30T22:00:31.647-0700] {processor.py:161} INFO - Started process (PID=4269) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:00:31.649-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:00:31.652-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:00:31.652-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:00:31.699-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:00:31.759-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:00:31.759-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:00:31.789-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:00:31.789-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:00:32.012-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.373 seconds
+[2025-10-30T22:01:13.633-0700] {processor.py:161} INFO - Started process (PID=4307) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:13.635-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:01:13.638-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:13.637-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:13.668-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:13.701-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:13.701-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:01:13.717-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:13.717-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:01:13.829-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.203 seconds
+[2025-10-30T22:01:54.559-0700] {processor.py:161} INFO - Started process (PID=4345) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:54.561-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:01:54.563-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:54.563-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:54.605-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:01:54.649-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:54.649-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:01:54.670-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:01:54.670-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:01:54.778-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.226 seconds
+[2025-10-30T22:02:35.906-0700] {processor.py:161} INFO - Started process (PID=4383) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:02:35.907-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:02:35.910-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:02:35.909-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:02:35.937-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:02:35.970-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:02:35.969-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:02:35.986-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:02:35.985-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:02:36.089-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.191 seconds
+[2025-10-30T22:03:18.868-0700] {processor.py:161} INFO - Started process (PID=4421) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:03:18.870-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:03:18.875-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:03:18.874-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:03:18.944-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:03:18.994-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:03:18.994-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:03:19.016-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:03:19.016-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:03:19.171-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.310 seconds
+[2025-10-30T22:04:05.497-0700] {processor.py:161} INFO - Started process (PID=4460) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:05.499-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:04:05.501-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:05.501-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:05.546-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:05.592-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:05.592-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:04:05.619-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:05.618-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:04:05.771-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.281 seconds
+[2025-10-30T22:04:51.064-0700] {processor.py:161} INFO - Started process (PID=4500) to work on /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:51.066-0700] {processor.py:830} INFO - Processing file /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py for tasks to queue
+[2025-10-30T22:04:51.069-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:51.069-0700] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:51.122-0700] {processor.py:840} INFO - DAG(s) 'x_market_etl_dag' retrieved from /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py
+[2025-10-30T22:04:51.177-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:51.177-0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-10-30T22:04:51.201-0700] {logging_mixin.py:188} INFO - [2025-10-30T22:04:51.201-0700] {dag.py:3947} INFO - Setting next_dagrun for x_market_etl_dag to None, run_after=None
+[2025-10-30T22:04:51.373-0700] {processor.py:183} INFO - Processing /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/airflow/dags/x_market_etl_dag.py took 0.317 seconds

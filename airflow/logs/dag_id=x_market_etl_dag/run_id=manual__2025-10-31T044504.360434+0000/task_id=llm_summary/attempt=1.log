@@ -1,0 +1,45 @@
+[2025-10-30T21:49:43.565-0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-10-30T21:49:43.613-0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: x_market_etl_dag.llm_summary manual__2025-10-31T04:45:04.360434+00:00 [queued]>
+[2025-10-30T21:49:43.637-0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: x_market_etl_dag.llm_summary manual__2025-10-31T04:45:04.360434+00:00 [queued]>
+[2025-10-30T21:49:43.638-0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-10-30T21:49:43.714-0700] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): llm_summary> on 2025-10-31 04:45:04.360434+00:00
+[2025-10-30T21:49:43.730-0700] {standard_task_runner.py:64} INFO - Started process 3609 to run task
+[2025-10-30T21:49:43.731-0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'x_market_etl_dag', 'llm_summary', 'manual__2025-10-31T04:45:04.360434+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/x_market_etl_dag.py', '--cfg-path', '/tmp/tmpvamhm9yo']
+[2025-10-30T21:49:43.742-0700] {standard_task_runner.py:91} INFO - Job 12: Subtask llm_summary
+[2025-10-30T21:49:43.909-0700] {task_command.py:426} INFO - Running <TaskInstance: x_market_etl_dag.llm_summary manual__2025-10-31T04:45:04.360434+00:00 [running]> on host MY-PC.localdomain
+[2025-10-30T21:49:44.150-0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='vishn' AIRFLOW_CTX_DAG_ID='x_market_etl_dag' AIRFLOW_CTX_TASK_ID='llm_summary' AIRFLOW_CTX_EXECUTION_DATE='2025-10-31T04:45:04.360434+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-31T04:45:04.360434+00:00'
+[2025-10-30T21:49:44.152-0700] {taskinstance.py:430} INFO - ::endgroup::
+[2025-10-30T21:49:44.153-0700] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2025-10-30T21:49:44.155-0700] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "python '/mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/scripts/llm_summary.py'"]
+[2025-10-30T21:49:44.168-0700] {subprocess.py:86} INFO - Output:
+[2025-10-30T21:50:16.424-0700] {subprocess.py:93} INFO - 🌐 Running in WSL — using Windows host IP: 172.23.240.1
+[2025-10-30T21:50:16.426-0700] {subprocess.py:93} INFO - 🔗 Connected to PostgreSQL at 172.23.240.1:5432
+[2025-10-30T21:50:16.427-0700] {subprocess.py:93} INFO - 📥 Loaded 200 tweets for summarization.
+[2025-10-30T21:50:16.428-0700] {subprocess.py:93} INFO - ✂️ Created 12 chunks for summarization.
+[2025-10-30T21:50:16.429-0700] {subprocess.py:93} INFO - 🤖 Loaded LLM successfully.
+[2025-10-30T21:50:16.429-0700] {subprocess.py:93} INFO - ✅ Chunk 1/12 summarized.
+[2025-10-30T21:50:16.430-0700] {subprocess.py:93} INFO - ✅ Chunk 2/12 summarized.
+[2025-10-30T21:50:16.431-0700] {subprocess.py:93} INFO - ✅ Chunk 3/12 summarized.
+[2025-10-30T21:50:16.431-0700] {subprocess.py:93} INFO - ✅ Chunk 4/12 summarized.
+[2025-10-30T21:50:16.432-0700] {subprocess.py:93} INFO - ✅ Chunk 5/12 summarized.
+[2025-10-30T21:50:16.433-0700] {subprocess.py:93} INFO - ✅ Chunk 6/12 summarized.
+[2025-10-30T21:50:16.433-0700] {subprocess.py:93} INFO - ✅ Chunk 7/12 summarized.
+[2025-10-30T21:50:16.434-0700] {subprocess.py:93} INFO - ✅ Chunk 8/12 summarized.
+[2025-10-30T21:50:16.434-0700] {subprocess.py:93} INFO - ✅ Chunk 9/12 summarized.
+[2025-10-30T21:50:16.435-0700] {subprocess.py:93} INFO - ✅ Chunk 10/12 summarized.
+[2025-10-30T21:50:16.435-0700] {subprocess.py:93} INFO - ✅ Chunk 11/12 summarized.
+[2025-10-30T21:50:16.436-0700] {subprocess.py:93} INFO - ✅ Chunk 12/12 summarized.
+[2025-10-30T21:50:16.436-0700] {subprocess.py:93} INFO - 
+[2025-10-30T21:50:16.437-0700] {subprocess.py:93} INFO - 📝 FINAL SUMMARY:
+[2025-10-30T21:50:16.437-0700] {subprocess.py:93} INFO - ================================================================================
+[2025-10-30T21:50:16.438-0700] {subprocess.py:93} INFO - The market is primarily focused on the upcoming Federal Reserve rate decision, with a high probability of a cut in October. This expectation has influenced various markets, including cryptocurrencies, tech stocks, and safe-haven assets like gold and silver. Institutional investors may be adjusting their portfolios to account for the rate cut, leading to a rally in Bitcoin and increased liquidity in markets. Safe-haven demand amid US-China tensions and a strong 'Fed Put' sentiment have contributed to a cautiously bullish market outlook. Jerome Powell's speech and the potential impact on the US job market are also being closely watched. Despite some skepticism, the overall tone suggests that a rate cut could serve as a catalyst for further market rallies, particularly in the crypto space.
+[2025-10-30T21:50:16.439-0700] {subprocess.py:93} INFO - ================================================================================
+[2025-10-30T21:50:16.439-0700] {subprocess.py:93} INFO - 💾 Saved summary locally at /mnt/c/Users/vishn/Downloads/Shift/Programming/code+lab/X_Market_Analysis/data/summaries/latest_summary.txt
+[2025-10-30T21:50:16.440-0700] {subprocess.py:93} INFO - ✅ Summary saved to 'tweet_summaries' table.
+[2025-10-30T21:50:16.440-0700] {subprocess.py:93} INFO - 🕒 Saved at: 2025-10-30 21:50:16.423583
+[2025-10-30T21:50:17.245-0700] {subprocess.py:97} INFO - Command exited with return code 0
+[2025-10-30T21:50:17.247-0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-10-30T21:50:17.362-0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=x_market_etl_dag, task_id=llm_summary, run_id=manual__2025-10-31T04:45:04.360434+00:00, execution_date=20251031T044504, start_date=20251031T044943, end_date=20251031T045017
+[2025-10-30T21:50:17.455-0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-10-30T21:50:17.487-0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-10-30T21:50:17.492-0700] {local_task_job_runner.py:222} INFO - ::endgroup::
